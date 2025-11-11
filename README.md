@@ -1,4 +1,4 @@
-# Rota Inteligente: Otimização de Entregas com Algoritmos de IA
+# Projeto Inteligencia Artificial - Otimização de Entregas com Algoritmos de IA
 
 ## 1. Descrição do Problema, Desafio Proposto e Objetivos
 
